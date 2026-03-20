@@ -24,7 +24,7 @@
 ## Installation
 
 ```bash
-pip install stable-baselines3[extra] gymnasium[atari] ale-py autorom
+pip install -r requirements.txt
 AutoROM --accept-license
 ```
 
